@@ -4,6 +4,7 @@
 ### Systems & Backend Engineer · Applied AI Researcher · Network Architect
 
 *Designing fault-tolerant distributed architectures, intelligent computer vision pipelines, and scalable network infrastructures.*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Đức_Anh_Lê-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-anh-l%C3%AA-3b1a2b43a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-aduckend-111827?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/aduckend)
 [![Email](https://img.shields.io/badge/Email-aduc.le000%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:aduc.le000@gmail.com)
