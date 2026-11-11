@@ -55,4 +55,14 @@ I am a Computer Science undergraduate at **Ho Chi Minh City University of Techno
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-111827?style=for-the-badge&logo=cisco&logoColor=049FD9)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![DBeaver](https://img.shields.io/badge/DBeaver-111827?style=for-the-badge&logo=dbeaver&logoColor=382923)
+
+---
+
+### 📊 GitHub Telemetry
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DucAnhLeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucAnhLeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+</div>
