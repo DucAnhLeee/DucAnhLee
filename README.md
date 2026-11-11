@@ -1,57 +1,58 @@
-# ⚡ Hi there, I'm Le Duc Anh! 👋
-
-### 🚀 Software Engineer | Network Architect | Game Systems Developer
-
-*"Bridging the gap between complex network infrastructure, algorithmic data research, and immersive game server ecosystems."*
-
----
-
-## 👨‍💻 Who am I?
-
-- 🎓 Currently expanding my horizons at **HUTECH** (Ho Chi Minh City University of Technology).
-- 🕹️ **Game Systems Architect:** Specializing in complex Minecraft RPG mechanics, wave-based dungeon logic, and custom boss entity development (MythicMobs, MMOCore, WorldGuard).
-- 🌐 **Network Engineering:** Experienced in designing scalable network topologies, VLSM architectures, and advanced Cisco IOS configurations.
-- 📈 **Data & Quant Research:** Exploring financial alpha development, quantitative research modeling (WorldQuant BRAIN), and data processing.
-- 🌱 **Currently exploring:** Advanced cloud deployments, C/C++ memory management, and optimizing Python data pipelines.
-
----
-
-## 🛠️ Tech Arsenal & Tools
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### ⚙️ Infrastructure & Platforms
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 📊 Data & Research
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DucAnhLeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucAnhLeee&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+# Lê Đức Anh
+### Systems & Backend Engineer · Applied AI Researcher · Network Architect
+
+*Designing fault-tolerant distributed architectures, intelligent computer vision pipelines, and scalable network infrastructures.*
+
+[![Email](https://img.shields.io/badge/Email-aduc.le000%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:aduc.le000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DucAnhLeee-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/DucAnhLeee)
+[![Discord](https://img.shields.io/badge/Discord-Community-111827?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/gbRnqyUU)
+
 </div>
 
 ---
 
-## 📫 Let's Connect
+### 🏛️ Executive Summary
 
-<div align="center">
-  <a href="mailto:aduc.le000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.gg/gbRnqyUU">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</div>
+I am a Computer Science undergraduate at **Ho Chi Minh City University of Technology (HUTECH)** focused on the intersection of **backend systems engineering**, **applied artificial intelligence**, and **enterprise network architecture**. My work centers on building low-latency, high-concurrency environments and translating algorithmic research into production-ready software.
+
+- **Applied AI & Computer Vision:** Developing Multimodal AI pipelines, Vietnamese Visual Question Answering (VQA) models, and automated license plate recognition (ALPR) systems integrated with relational databases.
+- **Algorithmic & Quantitative Research:** Researching swarm intelligence frameworks for dynamic multi-point path planning and designing quantitative alpha models (WorldQuant BRAIN).
+- **Distributed Systems & Game Architecture:** Engineering custom high-concurrency game server ecosystems (JVM-based), managing distributed database synchronization, custom entity state machines, and complex virtual economies.
+- **Systems & Network Infrastructure:** Administering Linux production environments (VPS/Cloud), optimizing C/C++ memory management, and designing scalable network topologies with Cisco IOS and VLSM.
+
+---
+
+### 🔬 Featured Engineering & Research Projects
+
+| Project / Research | Domain | Core Architecture & Highlights |
+| :--- | :--- | :--- |
+| **[Wildfire Rescue Swarm Intelligence](https://github.com/Team-ProjectAI/WRS-AI-TOPIC-35)** | *Algorithmic Research / AI* | Multi-point path planning framework utilizing swarm intelligence algorithms to optimize autonomous routing in dynamic, hazardous environments. |
+| **Vietnamese VQA & Multimodal AI** | *Computer Vision / NLP* | End-to-end Visual Question Answering pipeline developed for **HUTECH OLP AI**, utilizing quantized Vision-Language Models (VLMs) and normalized evaluation pipelines. |
+| **AI-Integrated Smart Parking DBMS** | *Database Architecture / CV* | Enterprise-grade relational database system integrated with real-time AI license plate recognition for automated vehicle tracking, billing, and concurrency control. |
+| **High-Concurrency RPG Server Network** | *Distributed Systems / JVM* | Custom-engineered multiplayer ecosystem hosted on Singapore cloud infrastructure; features asynchronous SQL data persistence, custom boss AI mechanics, and automated telemetry logging. |
+
+---
+
+### 🛠️ Technical Stack
+
+#### **Languages & Core Systems**
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+#### **AI, Data Science & Research**
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+#### **Infrastructure, Networking & DevOps**
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Cisco](https://img.shields.io/badge/Cisco_IOS-111827?style=for-the-badge&logo=cisco&logoColor=049FD9)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](
