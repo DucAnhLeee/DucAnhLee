@@ -63,6 +63,7 @@ I am a Computer Science undergraduate at **Ho Chi Minh City University of Techno
 ### 📊 GitHub Telemetry
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DucAnhLeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucAnhLeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DucAnhLeee&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DucAnhLeee&theme=tokyonight" alt="Top Languages" />
+</div>
 </div>
