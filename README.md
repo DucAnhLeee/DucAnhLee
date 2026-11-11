@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-aduc.le000%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:aduc.le000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DucAnhLeee-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/DucAnhLeee)
-[![Discord](https://img.shields.io/badge/Discord-Community-111827?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/gbRnqyUU)
+[![Discord](https://img.shields.io/badge/Discord-Community-111827?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/users/845482941823975425)
 
 </div>
 
